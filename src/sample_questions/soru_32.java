@@ -15,11 +15,11 @@ Kullanıcıdan alacagınız bilgilerle oluşturdugunuz bir Integer Array dizesin
         int uzunluk = scanner.nextInt();
         int[] arr = new int[uzunluk];
         int sayac=0;
-        int deger;
+        int deger1;
         while (sayac<uzunluk){
             System.out.println(sayac+1+". değeri giriniz");
-            deger= scanner.nextInt();
-            arr[sayac]=deger;
+            deger1= scanner.nextInt();
+            arr[sayac]=deger1;
             sayac++;
 
 
@@ -36,5 +36,6 @@ Kullanıcıdan alacagınız bilgilerle oluşturdugunuz bir Integer Array dizesin
 
         }
         System.out.println(Arrays.toString(arrReverse));
+
     }
 }
