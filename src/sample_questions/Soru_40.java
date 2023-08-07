@@ -2,7 +2,7 @@ package sample_questions;
 
 import java.util.Arrays;
 
-public class soru_40 {
+public class Soru_40 {
     public static void main(String[] args) {
         /*
         Soru 40-)

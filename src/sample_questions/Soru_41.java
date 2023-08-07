@@ -1,6 +1,6 @@
 package sample_questions;
 
-public class soru_41 {
+public class Soru_41 {
     public static void main(String[] args) {
         /*
         Soru 41-)
