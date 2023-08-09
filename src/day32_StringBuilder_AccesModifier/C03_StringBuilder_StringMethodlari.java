@@ -18,5 +18,6 @@ public class C03_StringBuilder_StringMethodlari {
             // StringBuilder'da olmayip, String'de olan method'lari kullanmak istersek
             // StringBuilder.toString() ile String'e gecis yapabiliriz
             // bu durumda calisan method'larin sb'i kalici olarak degistirmeyeceklerini UNUTMAMALIYIZ
+
         }
     }
