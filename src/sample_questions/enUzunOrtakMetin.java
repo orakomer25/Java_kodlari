@@ -1,8 +1,6 @@
 package sample_questions;
 
-import java.util.ArrayList;
-
-public class ornekkk {
+public class enUzunOrtakMetin {
     /*
     İki dize verildiğinde, en uzun ortak alt sırayı bulan bir yöntem yazın.
     örnek
